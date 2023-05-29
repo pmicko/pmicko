@@ -24,10 +24,7 @@ I quickly learn new skills and technologies, which help me boost test developmen
 ![sentry](https://img.shields.io/badge/sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![kibana](https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
-
-## 📈 Some boring stats
-
-[![pmicko's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmicko&show_icons=true&count_private=true&hide=contribs,stars&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+##
 
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=pmicko.pmicko" alt="visitors">
